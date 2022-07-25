@@ -22,7 +22,7 @@ Harting 09 67 000 9974
 ![image](https://github.com/Snolte1001/Ender-3-S1-Bed-Power-connector/blob/main/Bed%20Power_1.jpg)
 
 The cable of the print bed of the Ender 3 S1 has 5 wires 
-two thick ones for the heating, two thin ones for the temperature sensor and one green/yellow one for the protective earth.
+two thick ones (red + and black -) for the heating, two thin ones for the temperature sensor and one green/yellow one for the protective earth.
 
 
 ![image](https://github.com/Snolte1001/Ender-3-S1-Bed-Power-connector/blob/main/Pinout.jpg)
