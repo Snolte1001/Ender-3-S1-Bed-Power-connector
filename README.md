@@ -34,4 +34,7 @@ Please check with your own printer that really nothing inside the housing is in 
 
 ![image](https://github.com/Snolte1001/Ender-3-S1-Bed-Power-connector/blob/main/Bed%20Power_5.jpg)
 
+![image](https://github.com/Snolte1001/Ender-3-S1-Bed-Power-connector/blob/main/Bed%20Power_4.jpg)
+
+
 
