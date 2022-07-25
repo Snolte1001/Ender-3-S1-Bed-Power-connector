@@ -31,3 +31,7 @@ Here is the best positioning in my opinion.
 Please check with your own printer that really nothing inside the housing is in the space! 
 
 ![image](https://github.com/Snolte1001/Ender-3-S1-Bed-Power-connector/blob/main/Alignment.jpg)
+
+![image](https://github.com/Snolte1001/Ender-3-S1-Bed-Power-connector/blob/main/Bed%20Power_5.jpg)
+
+
