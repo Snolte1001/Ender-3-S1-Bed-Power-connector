@@ -16,7 +16,7 @@ Main contacts loadable up to 40A, secondary contacts up to 5A
 Connector housing for cable assembly nominal size : DA15 
 It is necessary to take care that the solder terminals have enough space and that the cable fits into the cable gland (8.3mm).
 
-The melt thread sets for 3D printing seem to be only metric, D-Sub threads are however 4/40 UNC ! For this there are adapter threaded bolts
+The melt thread sets for 3D printing seem to be only metric (M3 in this case), D-Sub threads are however 4/40 UNC ! For this there are adapter threaded bolts
 Harting 09 67 000 9974
 
 ![image](https://github.com/Snolte1001/Ender-3-S1-Bed-Power-connector/blob/main/Bed%20Power_1.jpg)
